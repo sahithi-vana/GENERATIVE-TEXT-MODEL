@@ -60,6 +60,6 @@ Follow the prompts:
 
 - Choose whether to save the output.
 
-# Result
+# Output
 
-![Image](https://github.com/user-attachments/assets/d15315d0-8879-4db2-b4a8-773b13dd4cb8)
+![Image](https://github.com/user-attachments/assets/60e680e9-75f3-42d7-8e79-a6f8730e3ebd)
